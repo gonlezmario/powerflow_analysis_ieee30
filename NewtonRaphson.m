@@ -11,7 +11,7 @@
 % Q = -|V_i|*|V_j|*|Y_ij|*sin(theta_ij - delta_i + delta_j) - Q_i
 
 %###################################################################################
-%		 | Bus | Bus | Vol |  Vol  | Generating |	 Load   | Reactive Power limit |
+%        | Bus | Bus | Vol |  Vol  | Generating |	 Load   | Reactive Power limit |
 %        |  N  | type| Mag | angle |  Pg  | QG  | Pl  |  Ql |   Qmax | Qmin        |
 %###################################################################################
 busdata=  [ 1     1    1.06    0       0     0     0     0       0       0;
